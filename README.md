@@ -6,3 +6,5 @@ Ref: https://spring.io/guides/gs/authenticating-ldap/
 Test: http://localhost:8080
     username: ben
     password: benspassword
+
+to generate data for testing: https://www.mockaroo.com/
